@@ -1,3 +1,4 @@
+// Принцип открытия/закрытия
 public class Teacher extends User{
     private Integer teacherId;
 
