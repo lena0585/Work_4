@@ -1,5 +1,5 @@
 import java.util.List;
-
+// Принцип инверсии зависимостей
 public class TeacherService implements UserService<Teacher>{
 
     private List<Teacher> teacherList;
