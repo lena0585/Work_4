@@ -1,5 +1,5 @@
 import java.util.Comparator;
-
+// Принцип единой ответственности
 public class UserComparator<T extends User> implements Comparator<T> {
 
     @Override
