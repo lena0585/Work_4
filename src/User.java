@@ -1,3 +1,4 @@
+// Принцип открытия/закрытия
 public class User{
     private String surname;
     private String firstname;
