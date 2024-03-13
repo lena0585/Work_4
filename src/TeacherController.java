@@ -1,5 +1,5 @@
 import java.util.List;
-
+// Принцип единой ответственности
 public class TeacherController implements UserController<Teacher>{
 
     private final TeacherService teacherService = new TeacherService();
